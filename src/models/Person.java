@@ -1,5 +1,7 @@
 package models;
 
+//TODO seems like no problems here, needs more testing though
+
 /*Inherited by Employee */
 public class Person {
     private String name;
